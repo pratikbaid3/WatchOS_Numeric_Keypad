@@ -1,3 +1,3 @@
-# WatchOS_Numeric_Keypad
+# WatchOS Numeric Keypad
 
-A description of this package.
+I created a watch os numeric keypad (so you dont have to) using Swift/SwiftUI
